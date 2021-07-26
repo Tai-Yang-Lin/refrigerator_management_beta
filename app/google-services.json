@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565250879348",
+    "project_id": "refrigerator-management-a2167",
+    "storage_bucket": "refrigerator-management-a2167.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565250879348:android:d644523e1f8c8093a24621",
+        "android_client_info": {
+          "package_name": "com.example.refrigerator_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565250879348-niervetqqspd4327ie81k352ife6770g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLkUvVY26DraxXyxmvyMIVIXkGTCwiT5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565250879348-niervetqqspd4327ie81k352ife6770g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
