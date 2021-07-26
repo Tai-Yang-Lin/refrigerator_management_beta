@@ -1,0 +1,2 @@
+# refrigerator_management_beta
+大三期末作業上傳至此學習GITHUB操作，不再更新
